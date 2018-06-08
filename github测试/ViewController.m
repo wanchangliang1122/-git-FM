@@ -17,6 +17,10 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
+    
+    
+    // 重新设置颜色为黄色
+    self.view.backgroundColor = [UIColor yellowColor];
 }
 
 
